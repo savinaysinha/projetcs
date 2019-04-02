@@ -1,0 +1,17 @@
+.main-body{
+	    background-color: #dfe6e9;
+}
+.nav{
+	
+    border-bottom: 1px solid  black;
+}
+#nav-toggle-button span{
+	background-color: blue;
+}
+.navbar-nav{
+    margin-left: 33%;
+}
+
+.msg{
+	color: red;
+}
