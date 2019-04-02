@@ -1,0 +1,10 @@
+body{
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+.err-msg{
+	text-align: center;
+	color: red;
+}
+.has-error{
+	color: red;
+}
